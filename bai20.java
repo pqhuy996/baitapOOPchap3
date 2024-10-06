@@ -1,5 +1,4 @@
 public class bai20 {
-    class FactorialApplication {
         public static void main(String[] args) {
             long number, result;
             number = 6;
